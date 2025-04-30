@@ -1,0 +1,31 @@
+2025-04-27 14:28:35,633 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-04-27 14:29:59,828 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.company:deliveryBoy-Producer:0.0.1-SNAPSHOT @ C:\Users\visha\eclipse-workspace\Kafka_using_microservices\example1\deliveryBoy-Producer\pom.xml.
+2025-04-27 14:30:00,059 [Worker-8: Importing Maven projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 2 problems were encountered while building the effective model for org.apache.yetus:audience-annotations:jar:0.5.0 during dependency collection step for project (use -X to see details)
+2025-04-27 14:30:01,173 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /deliveryBoy-Producer/src/main/java
+2025-04-27 14:30:01,176 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /deliveryBoy-Producer/src/main/resources
+2025-04-27 14:30:01,178 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /deliveryBoy-Producer/src/main/resources
+2025-04-27 14:30:01,179 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /deliveryBoy-Producer/src/test/java
+2025-04-27 14:30:01,182 [Worker-8: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /deliveryBoy-Producer/src/test/resources
+2025-04-27 14:30:01,503 [Worker-8: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 3 sec
+2025-04-27 14:30:02,514 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-27 14:30:02,515 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-27 14:30:02,519 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-27 14:30:02,533 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-27 14:30:02,539 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-27 14:30:02,540 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-27 14:30:02,540 [Worker-2: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-27 14:30:27,143 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.company:endUser-Consumer:0.0.1-SNAPSHOT @ C:\Users\visha\eclipse-workspace\Kafka_using_microservices\example1\endUser-Consumer\pom.xml.
+2025-04-27 14:30:27,385 [Worker-0: Importing Maven projects] WARN  o.a.m.r.i.DefaultArtifactDescriptorReader - 2 problems were encountered while building the effective model for org.apache.yetus:audience-annotations:jar:0.5.0 during dependency collection step for project (use -X to see details)
+2025-04-27 14:30:27,742 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /endUser-Consumer/src/main/java
+2025-04-27 14:30:27,743 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /endUser-Consumer/src/main/resources
+2025-04-27 14:30:27,743 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /endUser-Consumer/src/main/resources
+2025-04-27 14:30:27,744 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /endUser-Consumer/src/test/java
+2025-04-27 14:30:27,744 [Worker-0: Importing Maven projects] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /endUser-Consumer/src/test/resources
+2025-04-27 14:30:27,919 [Worker-0: Importing Maven projects] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 1 sec
+2025-04-27 14:30:28,191 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-27 14:30:28,191 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-27 14:30:28,191 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2025-04-27 14:30:28,193 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2025-04-27 14:30:28,197 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2025-04-27 14:30:28,197 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2025-04-27 14:30:28,198 [Worker-3: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\visha\eclipse-workspace\Kafka_using_microservices\example1\endUser-Consumer\src\test\resources

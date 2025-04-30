@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\visha\eclipse-workspace\Kafka_using_microservices\example1\.metadata\.plugins\org.eclipse.jdt.core
+2987175381.index
+1865797976.index
+1681604357.index
